@@ -28,7 +28,7 @@ However, as helpful as security audits and code libraries are in identifying or 
 In the following sections, we will outline the case and scope for OpenZeppelin to develop a comprehensive set of best-in-class Security Solutions for Compound throughout all stages of the governance proposal lifecycle:
 
 
-![c1|690x363](upload://mUk7D6cppw2mSTMkdIP1vTgPhtV.png)
+![c1|690x363](c1.png)
 
 
 
