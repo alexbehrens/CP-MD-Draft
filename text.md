@@ -126,7 +126,7 @@ Examples on how the threat detection monitoring and alerting Solution works:
     * Initial education event series and Bi-Annual education workshops and training sessions thereafter
     * Monthly forum posts and participation of PSO on community calls with explanation relating to audit and threat reporting
     * Discord Developer & Twitter Spaces Community Calls as necessary
-* **[Terms of Service](https://docs.google.com/document/d/1eDcvirf0bdzpjIkfxQHm7fcV05O1IcLXL-Dl-U52Y4k/edit?usp=sharing): **applicable to OpenZeppelin’s provision of Security Solutions
+* **[Terms of Service](https://docs.google.com/document/d/e/2PACX-1vR8112-sFz9ERsALvDIPDiCXK2argtPeipE3RSBHuPgJSV600DB16ECAstbFc4TcNGAwgMkOz14rGPE/pub): **applicable to OpenZeppelin’s provision of Security Solutions
 * **Out of scope of this proposal:** Setup and administration of bug bounty services, incident and emergency response services not explicitly laid out in this proposal, crisis communications and public relations support, compliance risk management, fees associated with external monitoring services (e.g. future Forta Protocol fees), as well as any other product or service not explicitly described here.
 
 
@@ -156,58 +156,3 @@ OpenZeppelin charges a service fee for its best-in-class Security Solutions that
 ## About OpenZeppelin
 
 OpenZeppelin is the premier smart contract security technology and services company, trusted by the most used DeFi, NFT, and DAO projects. Founded in 2015 with the mission to protect the open economy, OpenZeppelin safeguards tens of billions of dollars in funds for leading crypto organizations including Coinbase, Ethereum Foundation, Compound, Aave, TheGraph, and many others.
-
-
-# Q & A
-
-
-
-1. What is the breakdown of the quarterly payment in terms of services provided by OpenZeppelin?
-
-    We have tried to keep this simple and aligned with what we believe provides the best security for the protocol.
-
-
-    As indicated in the proposal, there are two main components to the fee structure:  The first is directly related to our services, this covers all activity of our auditors, part-time PSO, project management and training personnel.  This also includes our threat management platform and dashboarding solutions.  We have analyzed Compounds  governance and protocol changes over the last 1.5 years, along with the other services bundled into the quarterly offering and estimated this to be 1M/quarter.  Keep in mind that OZs current base fee per week for audits  is 30-35k/week, and CISO resources base salaries can easily range from 200-300K per year.  Also consider that the software fees underpinning our threat management solutions are included as part of these fees.
-
-
-    We also have included a performance fee which is largely where we will make our profit, which aligns our efforts to the Compound DAO directly in keeping the protocol safe from any significant security events.   In the first quarter, the only payment will be the service fee.  After the first quarter, assuming no significant events have  occurred, the performance fee will come due at the same time as the next quarters services fee.
-
-2. How many audits will Compound receive each year? Why is a perpetual audit structure needed when Compound already receives a significant number of audits from OZ?
-
-    The goal of this proposal is to move Compound away from ad-hoc last minute audits.  Waiting until the last minute to audit or in some cases not auditing protocol changes is no longer a best practice for an important project like Compound.  OpenZeppelin has analyzed and estimated, based on the last 1.5 years, the average number of protocol changes, along with parameter changes and assumed that every change will be audited on a  continuous basis, hence the term continuous audit in the proposal.  By combining continuous auditing with continuous threat monitoring, Compound will not only improve its overall risk profile and threat surface, but will also move away from last minute, ad-hoc audits.  The budget normally reserved for these ad-hoc audits will be saved and absorbed into this proposal.
-
-
-    Lastly, but most importantly this approach will redefine the way security is conducted by a DAO; as changes to the protocol get introduced by the community as opposed to a centralized lab, a new more holistic approach is required, one that will strengthen the overall decentralized growth of the protocol.
-
-3. How will the PSO act as a CISO? How will duties be different? Further explain their time commitment? Who is the proposed PSO?
-
-    The PSO will not be a full-time CISO but in many ways will fulfill some functions that reside with a CISO in a traditional organization.  The main function of the PSO as outlined in the proposal is to 1.  Project manage the overall OZ services proposed 2.  Make recommendations that improve the overall security of the Compound protocol, particularly focusing on timely response to changes, incidents and emergencies and  3.  Advise and coordinate training and education activities with the Compound community.  It is possible that over time, the PSO could expand to more responsibilities as the Compound security program matures and the need for further full-time information security officer becomes clear to the Community.  We have estimated a fractional but significant percentage of time of one of our most senior audit professionals, someone with both traditional information security expertise along with significant experience auditing and securing smart contracts.  We will introduce the individual once the proposal has been accepted and passed.
-
-4. What is Forta? Why should we trust it? Does the protocol have limitations/strengths? Who is using it already?
-
-    Forta is the first decentralized runtime security protocol to prevent or mitigate smart contract exploits as they occur. Forta was incubated by OpenZeppelin and launching with support from world-class partners including a16z (a major COMP token holder) Placeholder Ventures, and Coinbase Ventures, among others.
-
-
-    Forta allows anyone to develop code scripts - detector agents - to detect specific conditions or events. Forta node operators scan transactions and smart contract data, run detector agent scripts and emit alerts when threats are detected. Protocol devs, token holders, and integrators can subscribe to get real-time alerts on cybersecurity, financial, governance, and operational threats for their own or dependent protocols, enabling them to take defensive action to prevent or minimize loss of funds. UMA, Maker, Perpetual, DCG, Vesper, CREAM, Yearn, Alpha Finance have all already started using Forta.
-
-5. Forta is not a battle tested protocol - What assurances are provided that it will always work? How many nodes are currently running? Is there a potential conflict of interest given OZ’s involvement in Forta?
-
-    Forta is a permissionless protocol, OpenZeppelin incubated the project and will remain a key contributor. Forta currently is in early network tests, multiple nodes are being added each week and wider decentralized network testing will begin in early Q1 2022. Forta is a permissionless protocol, all components will be open source and all work will be publicly verifiable.
-
-6. Why is emergency response not included in this proposal? Will OZ and PSO do anything at all in the event of a security incident?
-
-    Emergency Response is directly dependent on Compound Governance and the ability to immediately respond to lock, pause, or mitigate threats to the protocol in an emergency situation. As part of this proposal, OZ and the PSO will make recommendations to the community on how to effectively respond in a more rapid or instantaneous manner during emergency situations. These recommendations will have to be accepted though the Compound DAO Governance process and be adopted for a more mature emergency process to emerge.
-
-
-    In parallel, our main focus in this area will be to audit all code changes on a continuous basis as well as to provide continuous threat monitoring. The process by which the DAO responds to emergencies needs to be developed in a thoughtful, effective way. OZ and its employees will notify and provide support to the extent of their abilities as required should an incident or emergency occur within the constraints of the current community Governance process.
-
-7. Specifically, what will the education sessions cover? What is the value added that Compound’s experienced solidity devs do not already have or can gain from free online education?
-
-    OpenZeppelin is one of the leading security firms in the smart contract, DeFI, and NFT space. By conducting hundreds of audits for the most used DeFi and NFT projects and interacting with many of the top development teams in the space, we find that there’s always a struggle between moving fast and building securely. Developers code for speed, efficiency, and functionality. Security is often an afterthought in their development cycles and saved as an activity towards the end.
-
-
-    The series will cover three areas 1.  Specific security best practices that all projects should follow when developing code and 2. Security Threats and recent developments in the space that could have impact on the Compound Protocol and 3. Tailored analysis of  areas of interest or concern from the community.
-
-8. How does incident response differ from emergency response and what capacity if any would be OZ’s involvement in preparation or solutions?
-
-    Standard information security nomenclature is that an incident differs from an emergency in that an emergency poses an immediate risk and requires urgent attention. As outlined in the proposal OZ will notify CompoundLabs and the DAO Community of incidents and emergencies.  The ability to respond to emergencies in an effective and timely manner is directly related to the speed at which the related protocol and governance actions can occur.  Hence the initial focus of the PSO will be to advise and suggest changes to the DAO governance process specifically to improve its abilities to respond to both incidents and emergencies in a timely manner.  Regardless, OZ and its employees will notify and provide support to the extent of their abilities as required should an incident or emergency occur within the constraints of the current community Governance process.
