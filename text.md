@@ -101,7 +101,8 @@ Examples on how the threat detection monitoring and alerting Solution works:
 
 
 
-![c2|690x392, 100%](upload://k6OI3bhqEYXFoORMrP6PO59b55l.png)
+
+![c1|690x363](c2.png)
 
 
 
@@ -109,7 +110,7 @@ Examples on how the threat detection monitoring and alerting Solution works:
 
 
 
-![c3|411x500](upload://sqykqpX57Paww8oyetFV1qSzwGX.png)
+![c1|690x363](c3.png)
 
 
 
@@ -135,7 +136,7 @@ OpenZeppelin charges a service fee for its best-in-class Security Solutions that
 
 
 
-![Screen Shot 2021-11-02 at 10.47.29 AM|690x64](upload://2qM4eayHoVOg2FRkuhVt7e5Ly6g.png)
+![c1|690x363](c4.png)
 
 
 
