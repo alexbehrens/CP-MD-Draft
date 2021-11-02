@@ -102,7 +102,7 @@ Examples on how the threat detection monitoring and alerting Solution works:
 
 
 
-![c1|690x363](c2.png)
+![c1|690x363](c3.png)
 
 
 
@@ -110,7 +110,7 @@ Examples on how the threat detection monitoring and alerting Solution works:
 
 
 
-![c1|690x363](c3.png)
+![c1|690x363](c2.png)
 
 
 
