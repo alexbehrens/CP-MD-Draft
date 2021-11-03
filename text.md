@@ -127,7 +127,7 @@ Examples on how the threat detection monitoring and alerting Solution works:
     * Initial education event series and Bi-Annual education workshops and training sessions thereafter
     * Monthly forum posts and participation of PSO on community calls with explanation relating to audit and threat reporting
     * Discord Developer & Twitter Spaces Community Calls as necessary
-* **[Terms of Service](https://docs.google.com/document/d/e/2PACX-1vR8112-sFz9ERsALvDIPDiCXK2argtPeipE3RSBHuPgJSV600DB16ECAstbFc4TcNGAwgMkOz14rGPE/pub): **applicable to OpenZeppelin’s provision of Security Solutions
+* **[Terms of Service](https://docs.google.com/document/d/e/2PACX-1vR8112-sFz9ERsALvDIPDiCXK2argtPeipE3RSBHuPgJSV600DB16ECAstbFc4TcNGAwgMkOz14rGPE/pub):** applicable to OpenZeppelin’s provision of Security Solutions
 * **Out of scope of this proposal:** Setup and administration of bug bounty services, incident and emergency response services not explicitly laid out in this proposal, crisis communications and public relations support, compliance risk management, fees associated with external monitoring services (e.g. future Forta Protocol fees), as well as any other product or service not explicitly described here. 
 
 
