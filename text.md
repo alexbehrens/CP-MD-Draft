@@ -84,7 +84,7 @@ As the first step in implementing this Solution, OpenZeppelin will perform an in
 
 ## Threat Detection Monitoring and Alerting
 
-In order to enable faster issue prevention and mitigate the risk associated with newly passed proposals OpenZeppelin will provide operational and security monitoring to detect issues and threats during and after the deployment of passed proposals. OpenZeppelin will implement or enhance existing monitoring and alerting systems to provide complete coverage. This will include (as appropriate):
+In order to enable faster issue prevention and mitigate the risk associated with newly passed proposals, OpenZeppelin will provide operational and security monitoring to detect issues and threats during and after the deployment of passed proposals. OpenZeppelin will implement or enhance existing monitoring and alerting systems to provide complete coverage. This will include (as appropriate):
 
 
 
