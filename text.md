@@ -164,7 +164,7 @@ OpenZeppelin is the premier smart contract security technology and services comp
 
 
 
-1. What is the breakdown of the quarterly payment in terms of services provided by OpenZeppelin? 
+1. **What is the breakdown of the quarterly payment in terms of services provided by OpenZeppelin?** 
 
     We have tried to keep this simple and aligned with what we believe provides the best security for the protocol.  
 
