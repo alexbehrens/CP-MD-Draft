@@ -35,7 +35,7 @@ In the following sections, we outline the case and scope for OpenZeppelin to dev
 
 
 
-### Security Advisory
+## Security Advisory
 
 OpenZeppelin will provide a dedicated Protocol Security Officer (PSO) to act as Compound’s security advisor. The PSO will be the main point of contact for the Community and provide advice and guidance to help improve and maintain Compound’s governance process using industry best practices.
 
@@ -52,7 +52,7 @@ The PSO’s advice, guidance, and feedback will be focused on:
     * Recommendations on available market solutions (security tools, bug bounties, services) for improving overall technical risk
 
 
-### Security Training 
+## Security Training 
 
 In order to reduce the probability of introducing new security risks in new proposals, the PSO, together with OpenZeppelin’s Education team, will provide tailored training and resources to the Community on secure smart contract development best practices. OpenZeppelin will host bi-annual workshops led by senior smart contract security researchers including: 
 
@@ -65,7 +65,7 @@ In order to reduce the probability of introducing new security risks in new prop
 For examples of educational content developed by OpenZeppelin, please refer to our Secure Smart Contract Development Series on [Strategies for Safer Governance systems](https://blog.openzeppelin.com/smart-contract-security-guidelines-4-strategies-for-safer-governance-systems/), [The Dangers of Price Oracles](https://blog.openzeppelin.com/secure-smart-contract-guidelines-the-dangers-of-price-oracles/), [Strategies for Secure Access Controls](https://blog.openzeppelin.com/workshop-recap-secure-development-workshop-2/), and [The Dangers of Token Integration](https://blog.openzeppelin.com/workshop-recap-secure-development-workshop-1/).
 
 
-### Security Audits
+## Security Audits
 
 OpenZeppelin will continuously audit and provide actionable security recommendations on new governance proposals. OpenZeppelin will assign a dedicated team of security auditors to review proposed changes on an ongoing basis, and will verify that the transaction to be executed matches the code submitted. The Compound protocol will be audited as these changes occur within the governance process, and the related deliverables will be communicated upon an agreed-upon schedule. 
 
@@ -82,7 +82,7 @@ For new governance proposals that meet an agreed-upon threshold (e.g. minimum # 
 As the first step in implementing this Solution, OpenZeppelin will perform an initial, comprehensive audit of Compound’s deployed smart contracts over a fixed period of time. For examples of OpenZeppelin’s security audit reports, please see our [blog](https://blog.openzeppelin.com/security-audits/).
 
 
-### Threat Detection Monitoring and Alerting
+## Threat Detection Monitoring and Alerting
 
 In order to enable faster issue prevention and mitigate the risk associated with newly passed proposals OpenZeppelin will provide operational and security monitoring to detect issues and threats during and after the deployment of passed proposals. OpenZeppelin will implement or enhance existing monitoring and alerting systems to provide complete coverage. This will include (as appropriate):
 
@@ -116,7 +116,7 @@ Examples on how the threat detection monitoring and alerting Solution works:
 
 
 
-### Expectations 
+## Expectations 
 
 
 
@@ -160,7 +160,7 @@ OpenZeppelin charges a service fee for its best-in-class Security Solutions that
 OpenZeppelin is the premier smart contract security technology and services company, trusted by the most used DeFi, NFT, and DAO projects. Founded in 2015 with the mission to protect the open economy, OpenZeppelin safeguards tens of billions of dollars in funds for leading crypto organizations including Coinbase, Ethereum Foundation, Compound, Aave, TheGraph, and many others.
 
 
-# FAQ
+## FAQ
 
 
 
