@@ -30,7 +30,7 @@ In the following sections, we outline the case and scope for OpenZeppelin to dev
 
 
 
-![c1|690x363](c1.png)
+![c1|690x363](https://raw.githubusercontent.com/alexbehrens/CP-MD-Draft/main/c1.png)
 
 
 
